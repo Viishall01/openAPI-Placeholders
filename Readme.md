@@ -1,3 +1,5 @@
+
+#Live Link :- https://openapi-placeholders.onrender.com/
 # User API
 
 Welcome to the **User API** documentation. This API provides endpoints to perform CRUD (Create, Read, Update, Delete) operations on user data and retrieve dummy users in JSON format.
